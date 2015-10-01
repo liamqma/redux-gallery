@@ -19,7 +19,7 @@
     "live",
     "edit",
     "webpack",
-    "flux",
+    "flux"
   ],
   "license": "MIT",
   "dependencies": {
