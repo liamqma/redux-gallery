@@ -1,0 +1,24 @@
+body {
+    padding: 50px;
+}
+
+li {
+    list-style-type: none;
+}
+
+li.selected a {
+    border: 5px solid black;
+}
+
+.slider {
+    overflow: hidden;
+}
+
+.slider__slide {
+    float: left;
+}
+
+.form-control {
+    width: 40%;
+    display: inline;
+}
